@@ -94,19 +94,19 @@ In addition to my technical skills, I am also a strong communicator and like sol
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/Matteo0099" target="_blank" style="underline:none;border:none">
+<a href="https://github.com/CLASSDJWIK" target="_blank" style="underline:none;border:none">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/itz_matteomania" target="_blank" style="underline:none;border:none">
+<a href="https://instagram.com/classdjw1k" target="_blank" style="underline:none;border:none">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://codepen.com/matteo0099" target="_blank" style="underline:none;border:none">
+<a href="https://www.reddit.com/user/CJDWIK9KOL/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" target="_blank" style="underline:none;border:none">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/19768851/area-crew-bmx" target="_blank" style="underline:none;border:none">
+# <a href="https://stackoverflow.com/users/19768851/area-crew-bmx" target="_blank" style="underline:none;border:none">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/matteo-mani%C3%A0-ba3a4b271/" target="_blank" style="underline:none;border:none">
+<a href="www.linkedin.com/in/willy-kelvin-junior-djangang-98658124a" target="_blank" style="underline:none;border:none">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -116,7 +116,7 @@ In addition to my technical skills, I am also a strong communicator and like sol
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Matteo0099&show_icons=true&theme=merko" 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=CLASSDJWIK&show_icons=true&theme=merko" 
 align="center" /></div>  
 
 
@@ -124,7 +124,7 @@ align="center" /></div>
 
 
 ## Top Languages
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matteo0099&&layout=donut" align="center" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CLASSDJWIK&&layout=donut" align="center" />
 </div>
 
 
@@ -145,7 +145,7 @@ align="center" /></div>
 
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Matteo0099&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=CLASSDJWIK&&style=flat-square" align="center" />
 </div>  
 
 
