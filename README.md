@@ -1,19 +1,19 @@
 
 
 ### Profile presentation  
-## <div align="center">I'm Matteo Manià, front-end developer 🚀</div>  
+## <div align="center">I'm  DJANGANG WILLY KELVIN Jr,  Data Analysis, Engineer  🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/Matteo0099)  
   
 
-- 🌱 I’m currently learning Reactjs and Vuejs  
+- 🌱 I’m currently learning Python , Tableau , Power bi and Data Warehousing
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I do extreme biking  
+- ⚡ Fun fact: I love doing Sports   
   
 
 High school student with 3 years of web development experience, specializing in building robust front-end web apps. I love designing and building user interfaces that are both visually appealing and easy to use. I am also proficient in back-end development, but my passion lies in front-end development.
@@ -103,7 +103,7 @@ In addition to my technical skills, I am also a strong communicator and like sol
 <a href="https://www.reddit.com/user/CJDWIK9KOL/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" target="_blank" style="underline:none;border:none">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
-# <a href="https://stackoverflow.com/users/19768851/area-crew-bmx" target="_blank" style="underline:none;border:none">
+ <a href="https://stackoverflow.com/users/19768851/area-crew-bmx" target="_blank" style="underline:none;border:none">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
 <a href="www.linkedin.com/in/willy-kelvin-junior-djangang-98658124a" target="_blank" style="underline:none;border:none">
